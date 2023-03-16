@@ -1,10 +1,10 @@
-#Hello Git
-##hello git
+# Hello Git
+## hello git
 nice to meet you..
 
-##brunch
+## brunch
 banana
-##lunch
+## lunch
 egg
-##dinner
+## dinner
 water
